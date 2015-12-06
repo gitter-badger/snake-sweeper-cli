@@ -1,6 +1,8 @@
 # Snake Sweeper
 ### Mine Sweeper in Python
 
+[![Join the chat at https://gitter.im/mhelmetag/snake-sweeper-cli](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mhelmetag/snake-sweeper-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Also... just playing around with Python.
 
 #### Dependencies:
